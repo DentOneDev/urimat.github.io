@@ -155,11 +155,11 @@ body {
     text-decoration: underline;
 }
 
-.titulo{
+.text_titulo{
     text-align: center;
     justify-content: center;
     font-size: 3em;
-    color: #030303;
+    color: #1cb83191;
     font-family: 'Orelega One', cursive;;
     background-color: transparent rgba(80, 240, 48, 0.1);
 }
