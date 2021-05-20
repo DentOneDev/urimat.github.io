@@ -8,7 +8,7 @@ body, html {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(to right top, #146ccf, #0287ced2);
+    background-image: linear-gradient(to right top,#a9c5f0, #0287ced2);
 }
     
 .container .content-wrapper {
