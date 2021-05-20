@@ -8,7 +8,7 @@ body, html {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(to right top, #2c5de4, #0e6fca);
+    background-image: linear-gradient(to right top, #146ccf, #0287ced2);
 }
     
 .container .content-wrapper {
@@ -27,7 +27,7 @@ body, html {
     border-radius: 20px;
     background: #fff;
     background: linear-gradient(to right bottom, 
-        rgba(255,255,255, .7), 
+        rgba(6, 119, 225, 0.7), 
         rgba(255,255,255,.3));
     z-index: 1;
     border: 1px solid #fff;
@@ -105,7 +105,7 @@ body, html {
 }
   
 .main-content .info .strengths .job .orange-color {
-    color: #0d98d8;
+    color: #2046b1e0;
 }
   
 .main-content .info .strengths .qualities {
@@ -129,7 +129,7 @@ body, html {
 }
   
 .main-content .info .strengths .buttons-wrapper .orange-button {
-    background-color: #2b70f1;
+    background-color: #146ccf;
     color: white;
     border: 1px solid #2b70f1;
     z-index: 1;
@@ -148,9 +148,9 @@ body, html {
 }
 
 .main-content .info .strengths .buttons-wrapper .transparent-button:hover {
-    background-color: #0d8cac;
+    background-color: #146ccf;
     color: white;
-    border: 1px solid #0D8CAC;
+    border: 1px solid #167f9998;
     transition: all 0.3s ease;
 }
   
@@ -220,7 +220,7 @@ body, html {
     background: #fff;
     background: linear-gradient(to right bottom, 
     rgba(255,255,255, .9), 
-    rgba(255,255,255,.1));
+    rgba(107, 90, 90, 0.076));
     height: 10rem;
     width: 10rem;
     position: absolute;
@@ -234,4 +234,10 @@ body, html {
 .circle2{
     bottom: 2%;
     right: 8%;
+}
+
+.fac{
+align-content: center;
+    align-items: center;
+justify-content: center;
 }
